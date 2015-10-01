@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sigma Track</string>
+    <string name="main_name">Sigma Track</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="title_activity_new_visit">Nueva Visita</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <string name="prompt_id_account">Empresa</string>
+    <string name="prompt_username">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Iniciar</string>
+    <string name="error_empty_password">Debes completar el campo contraseña</string>
+    <string name="error_empty_username">Debes completar el campo usuario</string>
+    <string name="error_empty_id_account">Debes completar el campo empresa</string>
+    <string name="error_invalid_login">Usuario o contraseña incorrecta</string>
+    <string name="new_visit_instructions">Seleccione el cliente, el tipo de visita y luego haga clic en el botón resgistrar</string>
+    <string name="btn_new_visit">Registrar</string>
+
+    <!-- Strings related to new visit-->
+    <string-array name="prompt_clients">
+        <item>Cliente 1</item>
+        <item>Cliente 2</item>
+        <item>Cliente 3</item>
+        <item>Cliente 4</item>
+        <item>Cliente 5</item>
+    </string-array>
+
+    <string-array name="prompt_visit_types">
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Type 3</item>
+        <item>Type 4</item>
+        <item>Type 5</item>
+    </string-array>
+    <string name="title_activity_location">Map</string>
+    <string name="action_new_visit">Nueva visita</string>
+</resources>
